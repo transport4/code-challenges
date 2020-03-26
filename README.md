@@ -1,7 +1,6 @@
 # Objective
 1. Write unit tests to cover all of the existing code
-2. Identify the "code smells", and violations of the coding standards and rules
-3. Refactor the code to make it "Clean Code" that follows the coding standards
+2. Refactor the code to make it "Clean" that follows best practice coding standards
  
 
 # Install JavaScript Project
