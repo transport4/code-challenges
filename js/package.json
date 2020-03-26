@@ -1,0 +1,20 @@
+{
+  "name": "clean-code-weather-forcast",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "src/forecast.js",
+  "scripts": {
+    "test": "babel-node node_modules/jasmine/bin/jasmine.js JASMINE_CONFIG_PATH=jasmine.json"
+  },
+  "devDependencies": {
+    "jasmine": "^3.1.0",
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  },
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "babel-register": "^6.26.0",
+    "request": "^2.87.0"
+  }
+}
