@@ -36,10 +36,10 @@
 
 # Spoonacular API information:
   
-    - API Key: 3c96dbdcf8a645fd830ad715ffc77da2
-    - [API Documentation](https://spoonacular.com/food-api/docs)
-    - Use the [Create Recipe Card](https://spoonacular.com/food-api/docs#Create-Recipe-Card) endpoint to generate a recipe card image 
-    - Use the [Ingredient endpoints](https://spoonacular.com/food-api/docs#Ingredient-Search) to retrieve the list of possible Taco sauces from Spoonacular 
+- API Key: 3c96dbdcf8a645fd830ad715ffc77da2
+- [API Documentation](https://spoonacular.com/food-api/docs)
+- Use the [Create Recipe Card](https://spoonacular.com/food-api/docs#Create-Recipe-Card) endpoint to generate a recipe card image 
+- Use the [Ingredient endpoints](https://spoonacular.com/food-api/docs#Ingredient-Search) to retrieve the list of possible Taco sauces from Spoonacular 
 
 
 
