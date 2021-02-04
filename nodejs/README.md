@@ -2,7 +2,7 @@
 
 1. Create a simple "Taco Recipe" REST API. 
 
-2. Use the latest NodeJS Framework version.  
+2. Use the latest NodeJS Framework and Typescript
 
 3. The API can be set up using Express, or as a Serverless (https://www.serverless.com/) API project.
 
@@ -28,9 +28,9 @@
         - Taco Topping(s)
         - Taco Sauce(s)
 
-3. The API should use some sort of mock DB for persisting the Taco recipe data
+3. The API should use some sort of mock DB and/or caching to persist the Taco recipe data
 
-4. The API should contain at least one "positive" unit test and one "negative" unit test.
+4. The API should contain at least one "positive" unit test and one "negative" unit test
 
 5. Spoonacular API information:
     - API Key: 3c96dbdcf8a645fd830ad715ffc77da2
