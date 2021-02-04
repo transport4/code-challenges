@@ -4,7 +4,7 @@
 
 2. Use the latest NodeJS Framework and Typescript
 
-3. The API can be set up using Express, or as a Serverless (https://www.serverless.com/) API project.
+3. Our preference is an AWS serverless API project built using AWS SAM or Serverless (https://www.serverless.com/) framework.  If you are unable to use one of these, a classic Express API will suffice.  You should be able to create a free AWS account, and run the serverless features required for an API on [their free tier](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Categories=categories%23serverless) for this exercise.
 
 4.  When you're finished, please push your code to GitHub and send a link to matt.marooney@transport4.com
  
