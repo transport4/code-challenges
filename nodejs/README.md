@@ -32,13 +32,14 @@
 
 4. The API should contain at least one "positive" unit test and one "negative" unit test
 
-5. Spoonacular API information:
+5. Use best-practice REST specifications, async patterns, clean coding practices, and your creativity and ingenuity!
+
+# Spoonacular API information:
+  
     - API Key: 3c96dbdcf8a645fd830ad715ffc77da2
     - [API Documentation](https://spoonacular.com/food-api/docs)
     - Use the [Create Recipe Card](https://spoonacular.com/food-api/docs#Create-Recipe-Card) endpoint to generate a recipe card image 
     - Use the [Ingredient endpoints](https://spoonacular.com/food-api/docs#Ingredient-Search) to retrieve the list of possible Taco sauces from Spoonacular 
-
-6. Use best-practice REST specifications, async patterns, clean coding practices, and your creativity and ingenuity!
 
 
 
