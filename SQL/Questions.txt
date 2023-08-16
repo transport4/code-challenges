@@ -1,0 +1,22 @@
+
+-- Question #1: Fetch a list of all species names, what language they speak, 
+-- and their home world's climate.
+
+-- Question #2: Fetch the species name who hails from the smallest planet in size and population.
+
+-- Question #3: Fetch a list of species classifications 
+-- ordered by total number of species each.
+
+-- Question #4: Update the population of Coruscant to account for 500,000 new inhabitants
+
+-- Question #5: After the Death Star strike, please delete 
+-- the planet Endor from the planets table
+
+-- Question #6: Fetch a list of the sentient species 
+-- in descending order of population of their home worlds
+
+-- Question #7: Fetch the two planets that have the 
+-- shortest average height in their population
+
+-- Question #8: Without joining to the planets table, fetch a list of species
+-- and their homeworld diameters ordered from smallest to largest
